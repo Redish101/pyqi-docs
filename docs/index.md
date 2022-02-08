@@ -2,8 +2,9 @@
 home: true
 heroText: Pyqi
 tagline: Python多版本安装器
-actionText: 入门
-actionLink: /guide/install
+actions:
+  - text: 快速上手
+    link: /guide/install
 footer: MIT Licensed | Copyright © 2022 Redish101
 ---
 ## 极速安装
