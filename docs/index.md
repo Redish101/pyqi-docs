@@ -5,7 +5,7 @@ tagline: Python多版本安装器
 actions:
   - text: 快速上手
     link: /guide/install
-footer: MIT Licensed | Copyright © 2022 Redish101
+footer: Deploy on ▲Vercel | Copyright © 2022 Redish101
 ---
 ## 极速安装
 ### 安装
