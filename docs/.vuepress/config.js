@@ -67,6 +67,10 @@ module.exports = {
 function getDemoSidebar() {
     return [
       {
+        text: "介绍",
+        link: "/guide"
+      },
+      {
         text: "入门",
         children: [{
           text: "安装",
