@@ -3,7 +3,7 @@ home: true
 heroText: pvm
 tagline: Python版本管理器(原pyqi)
 actions:
-  - text: 快速上手
+  - text: 快速上手 →
     link: /guide/install.html
     type: primary
   - text: 项目简介
