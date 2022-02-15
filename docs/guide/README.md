@@ -2,6 +2,8 @@
 title: 项目简介
 date: 2022-02-14
 update: 2022-02-14
+prev: false
+next: ./install.html
 ---
 ## Pyqi是什么？🤔️
 Pyqi，全称Python quick installer，它可以让你更轻松、愉快的😉安装/升级Python。
